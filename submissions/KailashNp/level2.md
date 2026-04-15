@@ -105,7 +105,7 @@ To test the robustness of the LPI sandbox by providing unexpected and invalid in
 ### 9. get_case_studies Empty Query  
 - Input: ""  
 - Result: Returned default case studies  
-- Status:  Inconsistent behavior  
+- Status: Inconsistent behavior  
 
 - Observation:  
   - No validation  
@@ -152,3 +152,33 @@ To test the robustness of the LPI sandbox by providing unexpected and invalid in
 ## Conclusion  
 
 The LPI sandbox is functionally stable but has critical weaknesses in input validation and error reporting. These issues can lead to runtime errors and misleading test results, which should be addressed to improve reliability and security.
+
+---
+
+## Test Client Output
+```[PASS] smile_overview({})
+[PASS] smile_phase_detail({"phase":"reality-emulation"})
+[PASS] list_topics({})
+[PASS] query_knowledge({"query":"explainable AI"})
+[PASS] query_knowledge({"query":"AAAAAAAA...long input"})
+[PASS] query_knowledge({"query":"!@#$%^&*()_+{}[]<>?/\|"})
+[PASS] query_knowledge({"query":"' OR 1=1 --"})
+[PASS] query_knowledge({"query":""})
+[PASS] query_knowledge({"query":null})
+[PASS] query_knowledge({"query":12345})
+[PASS] get_case_studies({})
+[PASS] get_case_studies({"query":12345})
+[PASS] get_case_studies({"query":""})
+[PASS] get_case_studies({"query":"smart buildings"})
+[PASS] get_insights({"scenario":"personal health digital twin","tier":"free"})
+[PASS] get_methodology_step({"phase":"concurrent-engineering"})
+
+=== Results ===
+Passed: 16/16
+Failed: 0/16
+```
+---
+
+## LLM Output Observation
+
+The system generated outputs related to digital twins, particularly in scenarios like "personal health digital twin". This confirms that the system is capable of producing domain-specific and context-aware responses.
