@@ -22,3 +22,11 @@ The output provides:
 
 ## Example question
 `Why do I crash every afternoon?`
+
+## Setup & Safety
+The linked repository now includes:
+- complete setup instructions
+- `requirements.txt`
+- reproducible run commands
+- graceful bad-input validation
+- explicit runtime error handling for missing sandbox builds
