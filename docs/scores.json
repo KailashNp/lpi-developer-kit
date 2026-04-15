@@ -18,10 +18,10 @@
   "varshit-pratap-singh-bhadauria": {
     "name": "Varshit Pratap Singh Bhadauria",
     "level": 2,
-    "score": 2,
+    "score": 3,
     "max": 5,
-    "pct": 40,
-    "updated": "2026-04-15T19:59:15.376Z"
+    "pct": 60,
+    "updated": "2026-04-15T21:53:37.287Z"
   },
   "ankit-kumar-singh": {
     "name": "Ankit Kumar Singh",
@@ -85,7 +85,7 @@
     "score": 5,
     "max": 5,
     "pct": 100,
-    "updated": "2026-04-15T20:20:00.822Z"
+    "updated": "2026-04-15T21:52:17.724Z"
   },
   "level:-level-2-varshit-pratap-singh-bhadauria-(final-fix)": {
     "name": "Level: level-2 Varshit Pratap Singh Bhadauria (FINAL FIX)",
@@ -94,5 +94,13 @@
     "max": 5,
     "pct": 40,
     "updated": "2026-04-15T20:33:10.664Z"
+  },
+  "kailash-narayana-prasad": {
+    "name": "Kailash Narayana Prasad",
+    "level": 2,
+    "score": 5,
+    "max": 5,
+    "pct": 100,
+    "updated": "2026-04-15T21:16:55.983Z"
   }
 }
