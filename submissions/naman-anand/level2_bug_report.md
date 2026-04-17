@@ -1,7 +1,9 @@
 # Level 2 — Security & QA Bug Report
 
 **Contributor:** Naman Anand
+
 **Track:** Track E: QA & Security
+
 **Target:** LPI Sandbox (MCP Server)
 
 
