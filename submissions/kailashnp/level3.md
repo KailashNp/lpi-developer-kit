@@ -245,6 +245,36 @@ The API contains multiple critical vulnerabilities including command injection, 
 
 ---
 
+## LPI Tool Usage
+
+During my testing and analysis, I interacted with multiple LPI tools to understand system behavior and outputs.
+
+### Tools Used
+
+1. **query_knowledge**
+   - Input: "digital twin security"
+   - Output: Returned structured knowledge about digital twin systems and their risks  
+   - Use: Helped understand domain-specific context for vulnerabilities  
+
+2. **get_case_studies**
+   - Input: "smart buildings"
+   - Output: Provided real-world examples of digital twin applications  
+   - Use: Used to connect vulnerabilities with real-world impact scenarios  
+
+3. **get_insights**
+   - Input: {"scenario": "personal health digital twin", "tier": "free"}  
+   - Output: Generated insights related to digital twin usage in healthcare  
+   - Use: Helped analyze potential risks in sensitive domains  
+
+### Summary
+
+These tools helped me:
+- Understand real-world applications of digital twins  
+- Map vulnerabilities to real-world scenarios  
+- Analyze system-level impact  
+
+---
+
 ## Conclusion  
 
 The vulnerable API demonstrates how improper input handling, insecure configurations, and lack of validation can lead to critical security issues. Addressing these vulnerabilities is essential for building secure and reliable systems.
