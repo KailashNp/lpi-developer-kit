@@ -57,7 +57,7 @@ User Input → Query Analysis → Tool Selection → Tool Execution → Aggregat
 
 ## 💻 Repository
 
-https://github.com/abhinavchaudhary256-sudo/lpi-agent-abhinav
+https://github.com/abhichaudhary256-sudo/lpi-agent-abhinav.git
 
 ---
 
