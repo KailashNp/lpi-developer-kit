@@ -1,0 +1,13 @@
+{
+  "name": "LPI Expert Agent",
+  "description": "Expert agent with access to the LPI MCP server to query knowledge and developmental methodology phases.",
+  "type": "expert",
+  "skills": [
+    "query_knowledge",
+    "smile_phase_detail"
+  ],
+  "contact": {
+    "protocol": "local_process",
+    "endpoint": "./agent_b.py"
+  }
+}
