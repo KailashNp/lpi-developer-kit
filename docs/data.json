@@ -224,6 +224,30 @@
       "score_pct": 85
     },
     {
+      "name": "Shourya Solanki",
+      "github": "Shourya3113",
+      "skills": [
+        "python",
+        "flask",
+        "nlp",
+        "computer vision",
+        "api-integration",
+        "machine learning"
+      ],
+      "interests": [
+        "ai agents",
+        "digital twins",
+        "health intelligence",
+        "quantum ai",
+        "human optimization"
+      ],
+      "track": "A: Agent Builders",
+      "level": 3,
+      "score": 11,
+      "score_max": 13,
+      "score_pct": 85
+    },
+    {
       "name": "Yash Maheshwari",
       "github": "yashm0910",
       "skills": [
@@ -298,6 +322,36 @@
         "blockchain"
       ],
       "track": "A: Agent Builders",
+      "level": 3,
+      "score": 10,
+      "score_max": 13,
+      "score_pct": 77
+    },
+    {
+      "name": "Devika Hooda",
+      "github": "devikahooda775",
+      "skills": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "nodejs",
+        "express",
+        "python",
+        "flask",
+        "mongodb",
+        "rest apis",
+        "api integration",
+        "ai-based recommendation systems",
+        "basic nlp",
+        "sentiment analysis"
+      ],
+      "interests": [
+        "AI agents",
+        "web development",
+        "health tech"
+      ],
+      "track": "",
       "level": 3,
       "score": 10,
       "score_max": 13,
@@ -819,30 +873,6 @@
       "score_pct": 38
     },
     {
-      "name": "Shourya Solanki",
-      "github": "Shourya3113",
-      "skills": [
-        "python",
-        "flask",
-        "nlp",
-        "computer vision",
-        "api-integration",
-        "machine learning"
-      ],
-      "interests": [
-        "ai agents",
-        "digital twins",
-        "health intelligence",
-        "quantum ai",
-        "human optimization"
-      ],
-      "track": "A: Agent Builders",
-      "level": 3,
-      "score": 5,
-      "score_max": 5,
-      "score_pct": 100
-    },
-    {
       "name": "Suhani Sharma",
       "github": "SuhaniSharma1309",
       "skills": [
@@ -1009,16 +1039,22 @@
       "name": "Ashish Tyagi",
       "github": "xAshisssh",
       "skills": [
-        "Content Writing",
-        "Research",
-        "Basic Programming"
+        "python",
+        "machine learning",
+        "Deep Learning",
+        "NLP",
+        "Agentic RAG",
+        "AI Automation",
+        "State of Space Models",
+        "Cloud Compute Services"
       ],
       "interests": [
-        "AI",
-        "Digital Twins",
-        "Startups"
+        "AI Automation",
+        "digital twins",
+        "computer vision",
+        "State of Space Models-MAMBA"
       ],
-      "track": "Content & Research",
+      "track": "A: Agent Builders",
       "level": 3,
       "score": 1,
       "score_max": 13,
@@ -1099,36 +1135,6 @@
         "agents",
         "game dev",
         "3D"
-      ],
-      "track": "",
-      "level": 2,
-      "score": 5,
-      "score_max": 5,
-      "score_pct": 100
-    },
-    {
-      "name": "Devika Hooda",
-      "github": "devikahooda775",
-      "skills": [
-        "html",
-        "css",
-        "javascript",
-        "react",
-        "nodejs",
-        "express",
-        "python",
-        "flask",
-        "mongodb",
-        "rest apis",
-        "api integration",
-        "ai-based recommendation systems",
-        "basic nlp",
-        "sentiment analysis"
-      ],
-      "interests": [
-        "AI agents",
-        "web development",
-        "health tech"
       ],
       "track": "",
       "level": 2,
