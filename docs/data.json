@@ -99,6 +99,30 @@
       "score_pct": 85
     },
     {
+      "name": "Shourya Solanki",
+      "github": "Shourya3113",
+      "skills": [
+        "python",
+        "flask",
+        "nlp",
+        "computer vision",
+        "api-integration",
+        "machine learning"
+      ],
+      "interests": [
+        "ai agents",
+        "digital twins",
+        "health intelligence",
+        "quantum ai",
+        "human optimization"
+      ],
+      "track": "A: Agent Builders",
+      "level": 4,
+      "score": 11,
+      "score_max": 13,
+      "score_pct": 85
+    },
+    {
       "name": "Aadyant Sood",
       "github": "Aadyant-7",
       "skills": [
@@ -527,30 +551,6 @@
         "API design",
         "problem solving",
         "system reliability"
-      ],
-      "track": "A: Agent Builders",
-      "level": 3,
-      "score": 11,
-      "score_max": 13,
-      "score_pct": 85
-    },
-    {
-      "name": "Shourya Solanki",
-      "github": "Shourya3113",
-      "skills": [
-        "python",
-        "flask",
-        "nlp",
-        "computer vision",
-        "api-integration",
-        "machine learning"
-      ],
-      "interests": [
-        "ai agents",
-        "digital twins",
-        "health intelligence",
-        "quantum ai",
-        "human optimization"
       ],
       "track": "A: Agent Builders",
       "level": 3,
