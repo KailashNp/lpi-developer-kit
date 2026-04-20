@@ -1,5 +1,7 @@
 # Level 3 - Security Audit Report
+## Repository
 
+https://github.com/bharathraju03/lpi-developer-kit
 ## Vulnerability 1: SQL Injection
 - Location: /api/query
 - OWASP: Injection
@@ -60,6 +62,17 @@
 - Reviewed the sandbox server code.
 - No critical vulnerabilities found.
 - Input handling appears safe and controlled.
+## LPI Tool Usage
+
+I used the LPI sandbox tools during my analysis:
+
+- query_knowledge("explainable AI")  
+  → Returned knowledge entries related to explainable AI in digital twin systems.
+
+- get_insights("personal health digital twin")  
+  → Provided insights into healthcare digital twin implementations and modeling.
+
+These helped me understand expected system behavior and compare it with the vulnerable API.
 
 ## Conclusion
 The API contains multiple critical vulnerabilities including injection attacks, exposed secrets, and missing authentication. Immediate fixes are required before deployment.
